@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4DFEE1C3-D409-37F3-F1FC-48E7E7337B54}") = "ARBookCLF2", "Assembly-CSharp.csproj", "{03F6C40A-2D00-0B8B-622A-ED5B2468720D}"
+EndProject
+Project("{4DFEE1C3-D409-37F3-F1FC-48E7E7337B54}") = "ARBookCLF2", "Assembly-CSharp-Editor.csproj", "{63B503F3-6276-2DF0-3C9F-D4DC859E76F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F6C40A-2D00-0B8B-622A-ED5B2468720D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F6C40A-2D00-0B8B-622A-ED5B2468720D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F6C40A-2D00-0B8B-622A-ED5B2468720D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F6C40A-2D00-0B8B-622A-ED5B2468720D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B503F3-6276-2DF0-3C9F-D4DC859E76F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B503F3-6276-2DF0-3C9F-D4DC859E76F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B503F3-6276-2DF0-3C9F-D4DC859E76F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B503F3-6276-2DF0-3C9F-D4DC859E76F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
